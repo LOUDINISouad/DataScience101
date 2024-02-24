@@ -5,7 +5,6 @@ Breast cancer remains a significant global health challenge, affecting millions 
 ## Dependencies
 
 The following dependencies are required to run the Jupyter Notebook:
-
 - Python 3.x
 - Jupyter Notebook
 - NumPy
@@ -25,7 +24,7 @@ To run the project notebook, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd Your_project_name
+    cd data_101
     ```
 
 3. Launch Jupyter Notebook:
